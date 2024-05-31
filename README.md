@@ -1,1 +1,1 @@
-# sentimental_analysis
+# sentiment_analysis
